@@ -1,8 +1,8 @@
 ### Hi there, I'm Danyal! 👋
 
-I'm a high school student from Pakistan with a passion for coding, software development, and computer science. I am currently sharpening my skills and building projects as I prepare to pursue a Bachelor's degree in Software Engineering.
+I'm a high school student from Pakistan with a passion for coding, software development, and computer science. I am currently sharpening my skills and building projects as I prepare to pursue a Bachelor's degree in software Engineering.
 
-- 🏆 **CS50P Certified**: Completed Harvard University's [CS50's Introduction to Programming with Python](https://cs50.harvard.edu/certificates/d83ce292-ae52-46d2-adce-1dbe6054c662).
+- 🏆 **CS50P Certified**: Completed Harvard University's [CS50's Introduction to Programming with Python](https://cs50.harvard.edu/certificates/d83ce292-ae52-46d2-adce-1dbe6054c692).
 - 🚀 **Featured Project**: [StudyMate](https://github.com/ZRYPT/StudyMate) — A CLI study management assistant built with Python.
 - 🔭 I’m currently learning **Python, JavaScript, Next.js, and Web Development**.
 - 🌱 I’m exploring **Git, GitHub, and core Computer Science concepts**.
